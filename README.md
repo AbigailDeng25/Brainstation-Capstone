@@ -18,5 +18,15 @@
     drop the columns that irrelevant/ redundant or highly sknewed
 5.Scaling
 6. Split data and Train test models
+   Random Forest Model
+    Test for Overfitting
+    Test for Data leakage
+   ANN Model
+    Test for Overfitting
+   XgBoost Model
+    Test for Overfitting
+   7.Use SMOTE to address imbalanced data
+   8.Use Random Sampling to address imbalanced data
+   9. Model Selection and Streamlit App
 
     

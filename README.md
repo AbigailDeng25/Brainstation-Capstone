@@ -25,8 +25,8 @@
     Test for Overfitting
    XgBoost Model
     Test for Overfitting
-   7.Use SMOTE to address imbalanced data
-   8.Use Random Sampling to address imbalanced data
-   9. Model Selection and Streamlit App
+7.Use SMOTE to address imbalanced data
+8.Use Random Sampling to address imbalanced data
+9. Model Selection and Streamlit App
 
     
